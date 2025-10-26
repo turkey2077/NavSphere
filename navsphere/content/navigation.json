@@ -6,24 +6,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1761467530821",
-          "title": "Mk48",
-          "href": "https://mk48.io/",
-          "description": "多人在线海战",
-          "icon": "/assets/img_1761467832826.png",
-          "enabled": true
-        },
-        {
-          "id": "1761467876208",
-          "title": "Kiomet",
-          "href": "https://kiomet.com",
-          "description": "多人实时战略游戏",
-          "icon": "/assets/img_1761467832826.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
+      "subCategories": []
+    },
+    {
+      "id": "1761467970693",
+      "title": "论坛",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     }
   ]
