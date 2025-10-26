@@ -14,6 +14,14 @@
           "description": "多人在线海战",
           "icon": "/assets/img_1761467832826.png",
           "enabled": true
+        },
+        {
+          "id": "1761467876208",
+          "title": "Kiomet",
+          "href": "https://kiomet.com",
+          "description": "多人实时战略游戏",
+          "icon": "/assets/img_1761467832826.png",
+          "enabled": true
         }
       ],
       "subCategories": []
