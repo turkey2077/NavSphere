@@ -6,7 +6,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1761467530821",
+          "title": "Mk48",
+          "href": "https://mk48.io",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mk",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
