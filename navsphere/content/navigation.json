@@ -15,7 +15,16 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1761467985965",
+          "title": "龙之归宿",
+          "href": "https://mk48by049.mbbs.cc",
+          "description": "",
+          "icon": "/assets/favicon_1761468007088.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
