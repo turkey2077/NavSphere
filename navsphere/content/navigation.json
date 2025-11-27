@@ -23,14 +23,6 @@
           "description": "",
           "icon": "/assets/favicon_1761468007088.png",
           "enabled": true
-        },
-        {
-          "id": "site_1764222635576_l97qmqo3z",
-          "title": "Mk12",
-          "href": "http://mk12.free.mbbs.cc",
-          "description": "访问 mk12.free.mbbs.cc",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mk12.free.mbbs.cc",
-          "enabled": true
         }
       ],
       "subCategories": []
